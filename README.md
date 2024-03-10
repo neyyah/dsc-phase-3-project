@@ -1,3 +1,5 @@
+## SYRIATEL CUSTOMER CHURN
+
 
 ## PROJECT OVERVIEW
 
@@ -100,6 +102,8 @@ To enhance customer retention at SyriaTel, it's crucial to integrate the machine
 - Improve the features with lower importance but still relevant to reduce churn. These features may have potential for improvement or further analysis.
 - SyriaTel should encourage its customers to take up international plan as the customers within international plan have low churn rate.
 - Utilize the tuned Random Forest model to predict and mitigate churn effectively.
+
+Presentation [here](https://www.canva.com/design/DAF_C3TFztM/sevppcC-kfTJqYDCIWPwKQ/edit?utm_content=DAF_C3TFztM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
