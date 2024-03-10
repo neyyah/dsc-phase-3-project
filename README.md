@@ -1,6 +1,8 @@
 ## SYRIATEL CUSTOMER CHURN
 
 
+![magnet customers](https://github.com/neyyah/dsc-phase-3-project/assets/151524110/27d96704-cfca-4d2c-b5d7-713038850b2e)
+
 ## PROJECT OVERVIEW
 
 The project's aim is to develop a machine learning model to predict customer churn for SyriaTel, a telecommunications company. The dataset includes various features such as customer service calls, total day charge, and total day minutes. The objective is to create a model that will accurately identify customers who are likely to churn, allowing the company to implement targeted retention strategies.
